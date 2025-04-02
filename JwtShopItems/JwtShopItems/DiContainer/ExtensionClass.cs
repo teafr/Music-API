@@ -11,7 +11,7 @@ namespace MusicAPI.DiContainer
     {
         public static IServiceCollection AddDependencies(this IServiceCollection services)
         {
-            services.AddSingleton<IDataAccess, DataAccess>();
+            services.AddTransient<IDataAccess, DataAccess>();
 
             return services;
         }
