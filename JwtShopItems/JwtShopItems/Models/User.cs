@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace JwtShopItems.Models
+namespace MusicAPI.Models
 {
     public class User
     {

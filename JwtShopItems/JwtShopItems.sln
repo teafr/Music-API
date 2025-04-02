@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtShopItems", "JwtShopItems\JwtShopItems.csproj", "{B05BE30E-6F57-4183-B0CF-D24980AD8623}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicAPI", "JwtShopItems\MusicAPI.csproj", "{B05BE30E-6F57-4183-B0CF-D24980AD8623}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "..\..\..\C#\DataLibrary\DataLibrary.csproj", "{C4F71803-B324-C813-4838-E938EB9B34B4}"
 EndProject

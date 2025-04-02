@@ -1,6 +1,6 @@
-using JwtShopItems.DiContainer;
+using MusicAPI.DiContainer;
 
-namespace JwtShopItems
+namespace MusicAPI
 {
     public static class Program
     {

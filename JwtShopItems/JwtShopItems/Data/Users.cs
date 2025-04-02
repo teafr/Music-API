@@ -1,6 +1,6 @@
-﻿using JwtShopItems.Models;
+﻿using MusicAPI.Models;
 
-namespace JwtShopItems.Data
+namespace MusicAPI.Data
 {
     public static class Users
     {

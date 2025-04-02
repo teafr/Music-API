@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace JwtShopItems.Models
+namespace MusicAPI.Models
 {
     public class Genre
     {

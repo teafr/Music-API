@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace JwtShopItems.Models
+namespace MusicAPI.Models
 {
     public class Song
     {

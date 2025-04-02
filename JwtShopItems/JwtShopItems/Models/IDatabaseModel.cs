@@ -1,4 +1,4 @@
-﻿namespace JwtShopItems.Models
+﻿namespace MusicAPI.Models
 {
     public interface IDatabaseModel
     {

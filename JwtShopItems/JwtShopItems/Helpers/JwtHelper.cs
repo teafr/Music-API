@@ -1,10 +1,10 @@
 ﻿using Microsoft.IdentityModel.Tokens;
-using JwtShopItems.Models.Authentication;
+using MusicAPI.Models.Authentication;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 
-namespace JwtShopItems.Helpers
+namespace MusicAPI.Helpers
 {
     public static class JwtHelper
     {

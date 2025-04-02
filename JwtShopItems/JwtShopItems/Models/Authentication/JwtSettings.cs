@@ -1,4 +1,4 @@
-﻿namespace JwtShopItems.Models.Authentication
+﻿namespace MusicAPI.Models.Authentication
 {
     public class JwtSettings
     {

@@ -1,11 +1,11 @@
 ﻿using DataLibrary;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
-using JwtShopItems.Models.Authentication;
+using MusicAPI.Models.Authentication;
 using System.Text;
 using Microsoft.OpenApi.Models;
 
-namespace JwtShopItems.DiContainer
+namespace MusicAPI.DiContainer
 {
     public static class ExtensionClass
     {

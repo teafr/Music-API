@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using JwtShopItems.Data;
-using JwtShopItems.Helpers;
-using JwtShopItems.Models.Authentication;
-using JwtShopItems.Models;
+using MusicAPI.Data;
+using MusicAPI.Helpers;
+using MusicAPI.Models.Authentication;
+using MusicAPI.Models;
 
-namespace JwtShopItems.Controllers
+namespace MusicAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
